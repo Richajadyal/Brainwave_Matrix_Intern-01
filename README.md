@@ -1,5 +1,5 @@
-# Brainwave Matrix Solution Cyber Security Internship: Task 01
-Welcome to the Brainwave Matrix Solution Internship repository! These repository documents are for Task 1 of my internship journey, which focuses on creating innovative, simple, flexible programs.
+# Brainwave Matrix Cyber Security Internship: Task 01
+Welcome to the Brainwave Matrix Internship repository! These repository documents are for Task 1 of my internship journey, which focuses on creating innovative, simple, flexible programs.
 
 # Task Overview
 Build a Python Cyber Security - Phishing Link Scanner.
